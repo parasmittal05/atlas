@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1380004385,
+    "interestingFact": "India is home to the ancient Indus Valley Civilization and has the world's largest postal network. It also celebrates more festivals than any other country in the world."
+  },
+  {
+    "id": 2,
+    "countryName": "World",
+    "capital": "No Capital",
+    "population": "Null",
+    "interestingFact": "The world has approximately 7.9 billion people and 71% of its surface is covered by water, most of which is found in oceans."
+  },
+  {
+    "id": 3,
+    "countryName": "Nepal",
+    "capital": "Kathmandu",
+    "population": 29609623,
+    "interestingFact": "Nepal is the only country in the world without a rectangular flag, and it was never colonized by a foreign power."
+  },
+  {
+    "id": 4,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 104258327,
+    "interestingFact": "Egyptians invented the 365-day calendar to predict the annual flooding of the Nile River, which was vital for agriculture."
+  },
+  {
+    "id": 5,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 25687041,
+    "interestingFact": "Australia has more kangaroos than people and is the only country that occupies an entire continent."
+  },
+  {
+    "id": 6,
+    "countryName": "Brazil",
+    "capital": "Brasilia",
+    "population": 213993437,
+    "interestingFact": "Brazil is known for its vibrant Carnival festival and is the largest coffee producer in the world."
+  },
+  {
+    "id": 7,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 67407241,
+    "interestingFact": "France is the most visited country in the world, attracting around 90 million tourists annually."
+  },
+  {
+    "id": 8,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": 1324216107,
+    "interestingFact": "Russia has the world's deepest lake, Lake Baikal, which contains about 20% of the planet's unfrozen freshwater."
+  },
+  {
+    "id": 9,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": 1444216107,
+    "interestingFact": "China has the world's largest high-speed rail network, spanning over 42,000 kilometers, and the Terracotta Army consists of more than 8,000 life-sized statues."
+  }
+]
